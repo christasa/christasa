@@ -6,6 +6,4 @@
 - Pokémon trainer (Sword ID: 鹿一, current ranking: Master Ball 2573)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christasa)](https://github.com/anuraghazra/github-readme-stats)
-
 
